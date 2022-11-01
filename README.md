@@ -13,7 +13,7 @@
 Here you can see how user interface looks like. Login page:  
   
 
-![login page](https://user-images.githubusercontent.com/79350805/199223286-f95cd3ea-b45d-4d57-8219-861f3dcbff6f.png)  
+![login page](https://user-images.githubusercontent.com/79350805/199223286-f95cd3ea-b45d-4d57-8219-861f3dcbff6f.png){align="center";}
 
 
 If you come late to your office, you can notify your HR:  
